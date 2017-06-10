@@ -22,3 +22,8 @@ Android Follow:
 -Motorola XT1031 with Android 4.4.4
 -Android Studio 2.3.2
 Detects a black path on white background using the camera
+
+Android CDC:
+-Motorola XT1031 with Android 4.4.4, PIC32MX250F128B
+-Android Studio 2.3.2
+Sends an integer from the Android via CDC to the PIC, which returns it
