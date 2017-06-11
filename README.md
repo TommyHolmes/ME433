@@ -8,7 +8,7 @@ PIC Demo:
 -MPLABX IDE v3.61 using Harmony v1_07_01
 Lights up an LED using register RB4
 
-PIC CDC PuTTY:
+PIC CDC:
 -PIC32MX250F128B
 -MPLABX IDE v3.61 using Harmony v1_07_01
 Receives and returns an integer from PuTTY using CDC
@@ -26,4 +26,4 @@ Detects a black path on white background using the camera
 Android CDC:
 -Motorola XT1031 with Android 4.4.4, PIC32MX250F128B
 -Android Studio 2.3.2
-Sends an integer from the Android via CDC to the PIC, which returns it
+Sends an integer from the Android slider via CDC to the PIC, which returns it
